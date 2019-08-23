@@ -54,3 +54,4 @@ dkms.conf
 */.dep/
 
 telnet/telnetd
+http/httpd
